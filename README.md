@@ -1,0 +1,2 @@
+# Rescaled-Einstein-Hilbert-Gravity-Inflation-and-the-Swampland-Criteria
+This repository contains the Wolfram Mathematica notebooks I developed during the research for my Diploma Thesis at the School of Physics, Faculty of Sciences, A.U.Th. The Diploma Thesis is a part of a broader research, which can be found at arXiv 2105.11935. My Diploma Thesis is provided as a supplement attached to this repository.
